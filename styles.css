@@ -398,7 +398,262 @@
 
         }
 
-        
+        .content3 div {
+
+                padding: 0;
+
+            }
+
+            .content3 .viewpoint1 {
+
+                height: 490px;
+
+                margin-bottom: 3px;
+
+                margin-right: 2px;
+
+                position: relative;
+
+            }
+
+            .content3 .viewpoint2 {
+
+                height: 490px;
+
+                margin-right: 2px;
+
+                position: relative;
+
+            }
+
+            .content3 .blackMask {
+
+                height: 110px;
+
+                width: 100%;
+
+                background: black;
+
+                position: absolute;
+
+                bottom: 0;
+
+                left: 0;
+
+            }
+
+            .content3 .blackMask p {
+
+                font-size: 20px;
+
+                line-height: 50px;
+
+                color: #eee;
+
+                margin-left: 40px;
+
+            }
+
+            .content3 .blackMask p:nth-child(2),
+
+            .content3 .blackMask p:nth-child(3) {
+
+                margin-left: 0px;
+
+            }
+
+            .content3 .blackMask p:nth-child(1),
+
+            .content3 .blackMask p:nth-child(2),
+
+            .content3 .blackMask p:nth-child(3) {
+
+                display: inline;
+
+            }
+
+            .content3 .blackMask p span {
+
+                font-size: 30px;
+
+            }
+
+            /* 右边 */
+
+            .content33 .viewpoint3,
+
+            .content33 .viewpoint4,
+
+            .content33 .viewpoint5 {
+
+                height: 274px;
+
+                position: relative;
+
+            }
+
+            .content33 .viewpoint4 {
+
+                height: 350px;
+
+            }
+
+            .content33 .viewpoint5 {
+
+                height: 355px;
+
+            }
+
+            .content33 .blackMask {
+
+                width: 100%;
+
+                height: 90px;
+
+                background: rgba(0, 0, 0, 0.5);
+
+                position: absolute;
+
+                bottom: 0;
+
+                left: 0;
+
+            }
+
+            .content33 .viewpoint3 {
+
+                margin-bottom: 2px;
+
+                background: url(img/ho3.jpg);
+
+            }
+
+            .content33 .viewpoint4 {
+
+                margin-bottom: 2px;
+
+                background: url(img/hot4.jpg);
+
+            }
+
+            .content33 .viewpoint5 {
+
+                background: url(img/hot5.jpg);
+
+            }
+
+            .content3 .blackMask p {
+
+                line-height: 40px;
+
+            }
+            .content33 {
+
+                display: none;
+
+            }
+
+            .content3 {
+
+                text-align: center;
+
+                background-color: white;
+
+            }
+
+            .content3 .viewpoint1 {
+
+                height: 380px;
+
+                background: url(img/hot1.jpg);
+
+                margin-top: 20px;
+
+                position: relative;
+
+            }
+
+            .content3 .viewpoint2 {
+
+                height: 380px;
+
+                background: url(img/hot2.jpg);
+
+                margin-top: 20px;
+
+                position: relative;
+
+            }
+
+            .content3 .blackMask {
+
+                width: 100%;
+
+                height: 110px;
+
+                background: rgba(0, 0, 0, 0.8);
+
+                position: absolute;
+
+                bottom: 0;
+
+                left: 0;
+
+            }
+
+            .content3 .blackMask p {
+
+                font-size: 24px;
+
+                font-weight: 300;
+
+                text-align: left;
+
+                margin-top: 15px;
+
+                margin-left: 10px;
+
+                color: #Eee;
+
+            }
+
+            .content3 .blackMask p:nth-child(2) {
+
+                display: none;
+
+            }
+
+            .content3 .blackMask p:nth-child(4) {
+
+                position: absolute;
+
+                right: 20px;
+
+                top: 25px;
+
+            }
+
+            .content3 .blackMask p span {
+
+                font-size: 32px;
+
+            }
+
+            .content3 .btnMore {
+
+                width: 180px;
+
+                color: #aaa;
+
+                font-size: 24px;
+
+                margin: 30px auto;
+
+                border: #aaa 1px solid;
+
+                border-radius: 10px;
+
+            }
 
         .carswordf {
 
